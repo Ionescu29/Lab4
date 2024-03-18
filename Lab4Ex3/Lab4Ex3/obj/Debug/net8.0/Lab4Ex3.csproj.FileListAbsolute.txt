@@ -1,0 +1,14 @@
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\bin\Debug\net8.0\Lab4Ex3.exe
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\bin\Debug\net8.0\Lab4Ex3.deps.json
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\bin\Debug\net8.0\Lab4Ex3.runtimeconfig.json
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\bin\Debug\net8.0\Lab4Ex3.dll
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\bin\Debug\net8.0\Lab4Ex3.pdb
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\obj\Debug\net8.0\Lab4Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\obj\Debug\net8.0\Lab4Ex3.AssemblyInfoInputs.cache
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\obj\Debug\net8.0\Lab4Ex3.AssemblyInfo.cs
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\obj\Debug\net8.0\Lab4Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\obj\Debug\net8.0\Lab4Ex3.dll
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\obj\Debug\net8.0\refint\Lab4Ex3.dll
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\obj\Debug\net8.0\Lab4Ex3.pdb
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\obj\Debug\net8.0\Lab4Ex3.genruntimeconfig.cache
+C:\Users\Ionut\source\repos\Lab4Ex3\Lab4Ex3\obj\Debug\net8.0\ref\Lab4Ex3.dll
